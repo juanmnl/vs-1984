@@ -6,6 +6,12 @@ Just playing with some 80's aesthetics.
 
 ![](https://raw.githubusercontent.com/juanmnl/vs-1984/master/screenshots/main.jpg)
 
+![](https://raw.githubusercontent.com/juanmnl/vs-1984/master/screenshots/css.jpg)
+
+![](https://raw.githubusercontent.com/juanmnl/vs-1984/master/screenshots/js.jpg)
+
+![](https://raw.githubusercontent.com/juanmnl/vs-1984/master/screenshots/json.jpg)
+
 **Enjoy!**
 
 And don't forget to say hi! [@\_juanmnl](https://twitter.com/_juanmnl)
