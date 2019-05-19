@@ -2,7 +2,7 @@
   "name": "vscode-theme-1984",
   "displayName": "1984 for VS-Code",
   "description": "Playing with 80's aesthetics",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "juanmnl",
   "engines": {
     "vscode": "^1.16.0"
