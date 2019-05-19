@@ -20,11 +20,16 @@
         "label": "1984",
         "uiTheme": "vs-dark",
         "path": "./themes/1984-color-theme.json"
+      },
+      {
+        "label": "1984 Unbolded",
+        "uiTheme": "vs-dark",
+        "path": "./themes/1984-unbolded-color-theme.json"
       }
     ]
   },
   "galleryBanner": {
-    "color": "#353B45",
+    "color": "#070930",
     "theme": "dark"
   },
   "icon": "icon.png",
