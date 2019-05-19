@@ -25,6 +25,11 @@
         "label": "1984 Unbolded",
         "uiTheme": "vs-dark",
         "path": "./themes/1984-unbolded-color-theme.json"
+      },
+      {
+        "label": "1984 Fancy",
+        "uiTheme": "vs-dark",
+        "path": "./themes/1984-fancy-color-theme.json"
       }
     ]
   },

@@ -4,6 +4,12 @@
 
 Just playing with some 80's aesthetics.
 
+3 flavors:
+
+- _1984:_ Regular + Bold font weights
+- _1984 Unbolded:_ Only Regular font weight
+- _1984 Fancy:_ Regular + Italic font weights
+
 ![](https://raw.githubusercontent.com/juanmnl/vs-1984/master/screenshots/main.jpg)
 
 ![](https://raw.githubusercontent.com/juanmnl/vs-1984/master/screenshots/css.jpg)

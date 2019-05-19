@@ -106,8 +106,7 @@
       "name": "Parameter",
       "scope": "variable.parameter",
       "settings": {
-        "foreground": "#96A1FF",
-        "fontStyle": "bold"
+        "foreground": "#96A1FF"
       }
     },
     {
@@ -115,7 +114,7 @@
       "scope": ["storage.type", "storage.modifier"],
       "settings": {
         "foreground": "#FF16B0",
-        "fontStyle": "bold"
+        "fontStyle": "italic"
       }
     },
     {
@@ -147,8 +146,7 @@
       "name": "Number",
       "scope": "constant.numeric",
       "settings": {
-        "foreground": "#FF16B0",
-        "fontStyle": "bold"
+        "foreground": "#FF16B0"
       }
     },
     {
@@ -176,8 +174,7 @@
       "name": "HTML or XML tag",
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#46BDFF",
-        "fontStyle": "bold"
+        "foreground": "#46BDFF"
       }
     },
     {
@@ -191,15 +188,15 @@
       "name": "Tag atttribute",
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#96A1FF"
+        "foreground": "#96A1FF",
+        "fontStyle": "italic"
       }
     },
     {
       "name": "Class",
       "scope": "entity.name.type",
       "settings": {
-        "foreground": "#46BDFF",
-        "fontStyle": "bold"
+        "foreground": "#46BDFF"
       }
     },
     {
@@ -213,8 +210,7 @@
       "name": "Function",
       "scope": ["entity.name.function", "variable.function"],
       "settings": {
-        "foreground": "#fcfcfc",
-        "fontStyle": "bold"
+        "foreground": "#fcfcfc"
       }
     },
     {
@@ -222,7 +218,7 @@
       "scope": "keyword",
       "settings": {
         "foreground": "#FF16B0",
-        "fontStyle": "bold"
+        "fontStyle": "italic"
       }
     },
     {
@@ -230,15 +226,14 @@
       "scope": "keyword.control",
       "settings": {
         "foreground": "#FF16B0",
-        "fontStyle": "bold"
+        "fontStyle": "italic"
       }
     },
     {
       "name": "Operator",
       "scope": "keyword.operator",
       "settings": {
-        "foreground": "#FF16B0",
-        "fontStyle": "bold"
+        "foreground": "#FF16B0"
       }
     },
     {
@@ -249,8 +244,7 @@
         "keyword.operator.logical"
       ],
       "settings": {
-        "foreground": "#FF16B0",
-        "fontStyle": "bold"
+        "foreground": "#FF16B0"
       }
     },
     {
@@ -264,8 +258,7 @@
       "name": "Support",
       "scope": "support",
       "settings": {
-        "foreground": "#46BDFF",
-        "fontStyle": "bold"
+        "foreground": "#46BDFF"
       }
     },
     {
@@ -293,24 +286,21 @@
       "name": "JS Variable Property",
       "scope": "variable.other.property.js",
       "settings": {
-        "foreground": "#FF16B0",
-        "fontStyle": "bold"
+        "foreground": "#FF16B0"
       }
     },
     {
       "name": "Key-value separator",
       "scope": "punctuation.separator.key-value",
       "settings": {
-        "foreground": "#FF16B0",
-        "fontStyle": "bold"
+        "foreground": "#FF16B0"
       }
     },
     {
       "name": "Embedded puncuation",
       "scope": "punctuation.section.embedded",
       "settings": {
-        "foreground": "#FF16B0",
-        "fontStyle": "bold"
+        "foreground": "#FF16B0"
       }
     },
     {
@@ -345,8 +335,7 @@
       "name": "Color",
       "scope": "constant.other.color",
       "settings": {
-        "foreground": "#FF16B0",
-        "fontStyle": "bold"
+        "foreground": "#FF16B0"
       }
     },
     {
@@ -360,8 +349,7 @@
       "name": "CSS #id",
       "scope": "entity.other.attribute-name.id",
       "settings": {
-        "foreground": "#FF16B0",
-        "fontStyle": "bold"
+        "foreground": "#FF16B0"
       }
     },
     {
@@ -378,8 +366,7 @@
       "name": "CSS support functions (rgb)",
       "scope": "support.function.misc.css",
       "settings": {
-        "foreground": "#FF16B0",
-        "fontStyle": "bold"
+        "foreground": "#FF16B0"
       }
     },
     {
@@ -393,8 +380,7 @@
       "name": "Markup quote",
       "scope": "markup.quote",
       "settings": {
-        "foreground": "#FF407B",
-        "fontStyle": "bold"
+        "foreground": "#FF407B"
       }
     },
     {
@@ -429,8 +415,7 @@
       "name": "C# storage type",
       "scope": "storage.type.cs",
       "settings": {
-        "foreground": "#FF16B0",
-        "fontStyle": "bold"
+        "foreground": "#FF16B0"
       }
     },
     {
@@ -454,8 +439,7 @@
       "name": "C++ operators",
       "scope": "source.cpp keyword.operator",
       "settings": {
-        "foreground": "#FF16B0",
-        "fontStyle": "bold"
+        "foreground": "#FF16B0"
       }
     }
   ]
