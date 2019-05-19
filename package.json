@@ -1,0 +1,32 @@
+{
+  "name": "vscode-theme-1984",
+  "displayName": "1984 for VS-Code",
+  "description": "Playing with 80's aesthetics",
+  "version": "0.0.1",
+  "publisher": "juanmnl",
+  "engines": {
+    "vscode": "^1.16.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/juanmnl/vs-1984"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "1984",
+        "uiTheme": "vs-dark",
+        "path": "./themes/1984-color-theme.json"
+      }
+    ]
+  },
+  "galleryBanner": {
+    "color": "#353B45",
+    "theme": "dark"
+  },
+  "icon": "icon.png",
+  "license": "MIT"
+}

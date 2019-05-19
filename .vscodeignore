@@ -1,0 +1,4 @@
+.vscode/**
+.gitignore
+screenshots/**
+.DS_Store
