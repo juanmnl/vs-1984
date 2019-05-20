@@ -2,13 +2,13 @@
 
 ## Welcome to 1984! :D
 
-Just playing with some 80's aesthetics.
+Just playing with some synth-neon-glowy 80's aesthetics.
 
 3 flavors:
 
 - _1984:_ Regular + Bold font weights
 - _1984 Unbolded:_ Only Regular font weight
-- _1984 Fancy:_ Regular + Italic font weights
+- _1984 Fancy:_ Regular + Italic font weights (recommended for long term usage)
 
 ![](https://raw.githubusercontent.com/juanmnl/vs-1984/master/screenshots/main.jpg)
 
