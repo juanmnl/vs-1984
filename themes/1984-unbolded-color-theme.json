@@ -57,7 +57,7 @@
     "titleBar.activeBackground": "#070825",
     "titleBar.activeForeground": "#b5becf",
     "titleBar.inactiveBackground": "#070930",
-    "titleBar.inactiveForeground": "#b5becf",
+    "titleBar.inactiveForeground": "#7b7f86",
     "extensionButton.prominentBackground": "#FF16B0",
     "extensionButton.prominentHoverBackground": "#ff16b196"
   },
