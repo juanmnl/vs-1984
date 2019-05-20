@@ -55,7 +55,7 @@
     "tab.border": "#070930",
     "tab.inactiveBackground": "#070825",
     "titleBar.activeBackground": "#070825",
-    "titleBar.activeForeground": "#FF16B0",
+    "titleBar.activeForeground": "#b5becf",
     "titleBar.inactiveBackground": "#070930",
     "titleBar.inactiveForeground": "#b5becf",
     "extensionButton.prominentBackground": "#FF16B0",
