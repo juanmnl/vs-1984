@@ -2,6 +2,8 @@
 
 ## Welcome to 1984! :D
 
+![](https://raw.githubusercontent.com/juanmnl/vs-1984/master/screenshots/main.jpg)
+
 Just playing with some synth-neon-glowy 80's aesthetics.
 
 3 flavors:
