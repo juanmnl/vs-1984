@@ -267,7 +267,8 @@
         "keyword.operator.logical"
       ],
       "settings": {
-        "foreground": "#FF16B0"
+        "foreground": "#FF16B0",
+        "fontStyle": ""
       }
     },
     {
