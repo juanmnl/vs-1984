@@ -1,5 +1,5 @@
 {
-  "name": "Hydra Plus",
+  "name": "1984 Fancy",
   "type": "dark",
   "colors": {
     "activityBar.background": "#070825",
@@ -79,7 +79,7 @@
     "debugToolBar.background": "#1C1E26",
     "walkThrough.embeddedEditorBackground": "#232530",
     "gitDecoration.addedResourceForeground": "#46BDFF",
-    "gitDecoration.modifiedResourceForeground": "#FFEA16",
+    "gitDecoration.modifiedResourceForeground": "#fcee54",
     "gitDecoration.deletedResourceForeground": "#FF16B0",
     "gitDecoration.untrackedResourceForeground": "#B3F361",
     "gitDecoration.ignoredResourceForeground": "#D5D8DA59"
