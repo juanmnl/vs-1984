@@ -2,7 +2,7 @@
   "name": "vscode-theme-1984",
   "displayName": "1984",
   "description": "80's Neon-Styles",
-  "version": "0.0.22",
+  "version": "0.0.23",
   "publisher": "juanmnl",
   "engines": {
     "vscode": "^1.16.0"
