@@ -17,7 +17,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "1984 - Orwell Edition",
+        "label": "1984 - Orwellian",
         "uiTheme": "vs-dark",
         "path": "./themes/1984-orwell-color-theme.json"
       },
