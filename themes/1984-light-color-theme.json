@@ -36,7 +36,7 @@
     "list.activeSelectionForeground": "#19152c",
     "list.focusBackground": "#46beff3f",
     "list.hoverBackground": "#46beff3f",
-    "list.highlightForeground": "#D7DAE0",
+    "list.highlightForeground": "#19152c",
     "list.inactiveSelectionBackground": "#d4d5e9",
     "list.inactiveSelectionForeground": "#19152c",
     "pickerGroup.border": "#FF16B0",
@@ -80,7 +80,7 @@
     "debugToolBar.background": "#1C1E26",
     "walkThrough.embeddedEditorBackground": "#d5d9f1",
     "gitDecoration.addedResourceForeground": "#0098fd",
-    "gitDecoration.modifiedResourceForeground": "#fcee54",
+    "gitDecoration.modifiedResourceForeground": "#fde400",
     "gitDecoration.deletedResourceForeground": "#FF16B0",
     "gitDecoration.untrackedResourceForeground": "#B3F361",
     "gitDecoration.ignoredResourceForeground": "#D5D8DA59"
@@ -296,7 +296,7 @@
       "name": "Support function",
       "scope": "support.function",
       "settings": {
-        "foreground": "#fcfcfc"
+        "foreground": "#251b50"
       }
     },
     {
