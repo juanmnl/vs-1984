@@ -17,29 +17,34 @@
   "contributes": {
     "themes": [
       {
+        "label": "1984 - Orwell Edition",
+        "uiTheme": "vs-dark",
+        "path": "./themes/1984-orwell-color-theme.json"
+      },
+      {
         "label": "1984",
         "uiTheme": "vs-dark",
         "path": "./themes/1984-color-theme.json"
       },
       {
-        "label": "1984 Unbolded",
+        "label": "1984 - Unbolded",
         "uiTheme": "vs-dark",
         "path": "./themes/1984-unbolded-color-theme.json"
       },
       {
-        "label": "1984 Fancy",
+        "label": "1984 - Fancy",
         "uiTheme": "vs-dark",
         "path": "./themes/1984-fancy-color-theme.json"
       },
       {
-        "label": "1984 Light",
+        "label": "1984 - Light",
         "uiTheme": "vs",
         "path": "./themes/1984-light-color-theme.json"
       }
     ]
   },
   "galleryBanner": {
-    "color": "#070930",
+    "color": "#0d0f31",
     "theme": "dark"
   },
   "icon": "icon.png",
