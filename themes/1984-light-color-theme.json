@@ -68,22 +68,22 @@
     "terminal.ansiBrightGreen": "#71c700",
     "terminal.ansiBrightMagenta": "#F806FA",
     "terminal.ansiBrightRed": "#FF16B0",
-    "terminal.ansiBrightYellow": "#fdba00",
+    "terminal.ansiBrightYellow": "#FF8D01",
     "terminal.ansiCyan": "#00b2be",
     "terminal.ansiGreen": "#71c700",
     "terminal.ansiMagenta": "#F806FA",
     "terminal.ansiRed": "#FF16B0",
-    "terminal.ansiYellow": "#fdba00",
+    "terminal.ansiYellow": "#FF8D01",
     "terminal.selectionBackground": "#fff",
     "terminalCursor.background": "#ffffff",
     "terminalCursor.foreground": "#FF16B0",
     "debugToolBar.background": "#1C1E26",
     "walkThrough.embeddedEditorBackground": "#d5d9f1",
     "gitDecoration.addedResourceForeground": "#0098fd",
-    "gitDecoration.modifiedResourceForeground": "#fdba00",
+    "gitDecoration.modifiedResourceForeground": "#FF8D01",
     "gitDecoration.deletedResourceForeground": "#FF16B0",
     "gitDecoration.untrackedResourceForeground": "#71c700",
-    "gitDecoration.ignoredResourceForeground": "#c4c4c4"
+    "gitDecoration.ignoredResourceForeground": "#adadad"
   },
   "tokenColors": [
     {
