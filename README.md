@@ -14,7 +14,7 @@ _For the screenshots, I'm using:_
 
 _From the community:_
 
-- [1984 iTerm 2 Color Scheme](https://github.com/covertbert/iTerm2-color-schemes/blob/master/1984.itermcolors) thanks to [@covertbert](https://github.com/covertbert)
+- [1984 iTerm 2 Color Schemes](https://github.com/covertbert/iterm2-1984) thanks to [@covertbert](https://github.com/covertbert)
 
 ---
 
