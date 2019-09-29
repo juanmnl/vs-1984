@@ -2,7 +2,7 @@
   "name": "vscode-theme-1984",
   "displayName": "1984",
   "description": "🎶I'm gonna show you where it's dark, but have no fear 🎶",
-  "version": "0.0.30",
+  "version": "0.0.31",
   "publisher": "juanmnl",
   "engines": {
     "vscode": "^1.16.0"
