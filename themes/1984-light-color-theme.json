@@ -10,7 +10,7 @@
     "button.foreground": "#19152c",
     "button.hoverBackground": "#0098fd",
     "diffEditor.insertedTextBackground": "#00809B33",
-    "dropdown.background": "#ffffff18",
+    "dropdown.background": "#e4e5f5ff",
     "dropdown.border": "#19152c",
     "editor.background": "#e4e5f5",
     "editor.foreground": "#19152c",
