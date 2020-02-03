@@ -130,7 +130,7 @@
       "name": "Parameter",
       "scope": "variable.parameter",
       "settings": {
-        "foreground": "#85EEA7",
+        "foreground": "#78A8D6",
         "fontStyle": "bold"
       }
     },
@@ -168,7 +168,7 @@
       "name": "Language constant (boolean, null)",
       "scope": "constant.language",
       "settings": {
-        "foreground": "#85EEA7"
+        "foreground": "#7ADAD1"
       }
     },
     {
@@ -292,7 +292,7 @@
       "name": "Support variable",
       "scope": "support.variable",
       "settings": {
-        "foreground": "#85EEA7"
+        "foreground": "#78A8D6"
       }
     },
     {
