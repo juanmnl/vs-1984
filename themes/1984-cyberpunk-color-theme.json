@@ -20,9 +20,9 @@
     "editorCursor.foreground": "#85EEA7",
     "editorGroup.border": "#181A1F",
     "editorGroupHeader.tabsBackground": "#1C1E27",
-    "editorIndentGuide.background": "#2c394c8f",
-    "editorLineNumber.foreground": "#3B4D66",
-    "editorWhitespace.foreground": "#2c394c8f",
+    "editorIndentGuide.background": "#8f97ff28",
+    "editorLineNumber.foreground": "#8f97ff4d",
+    "editorWhitespace.foreground": "#8f97ff28",
     "editorHoverWidget.background": "#1b1c27",
     "editorHoverWidget.border": "#181A1F",
     "editorSuggestWidget.background": "#242533",
@@ -98,7 +98,8 @@
       "scope": [
         "string.quoted",
         "string.template",
-        "punctuation.definition.string"
+        "punctuation.definition.string",
+        "punctuation.definition.block.js"
       ],
       "settings": {
         "foreground": "#7ADAD1"
@@ -203,7 +204,7 @@
       "name": "Tag atttribute",
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#85EEA7"
+        "foreground": "#BCD4CF"
       }
     },
     {
@@ -241,7 +242,7 @@
       "name": "Control keyword (if, try, while, etc.)",
       "scope": "keyword.control",
       "settings": {
-        "foreground": "#7ADAD1",
+        "foreground": "#BCD4CF",
         "fontStyle": "bold"
       }
     },
@@ -318,18 +319,10 @@
       }
     },
     {
-      "name": "Embedded puncuation",
-      "scope": "punctuation.section.embedded",
-      "settings": {
-        "foreground": "#7ADAD1",
-        "fontStyle": "bold"
-      }
-    },
-    {
       "name": "Puncuation Definition block",
       "scope": "punctuation.section.embedded",
       "settings": {
-        "foreground": "#FFFFFF"
+        "foreground": "#f2f2f2"
       }
     },
     {
