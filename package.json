@@ -37,6 +37,11 @@
         "path": "./themes/1984-fancy-color-theme.json"
       },
       {
+        "label": "1984 - Cyberpunk",
+        "uiTheme": "vs-dark",
+        "path": "./themes/1984-cyberpunk-color-theme.json"
+      },
+      {
         "label": "1984 - Light",
         "uiTheme": "vs",
         "path": "./themes/1984-light-color-theme.json"
