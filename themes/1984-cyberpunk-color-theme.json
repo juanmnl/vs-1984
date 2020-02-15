@@ -467,14 +467,14 @@
       "name": "Markdown Punctuation heading",
       "scope": "punctuation.definition.heading.markdown",
       "settings": {
-        "foreground": "#96a0ff7c"
+        "foreground": "#7ADAD1"
       }
     },
     {
       "name": "Markdown Bold Punctuation",
       "scope": "punctuation.definition.bold.markdown",
       "settings": {
-        "foreground": "#ff16b17a"
+        "foreground": "#85EEA7"
       }
     },
     {
