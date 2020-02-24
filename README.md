@@ -2,6 +2,8 @@
 
 **_DISCLAIMER_**: This theme was not designed for long-term usage. I made this for fun. If you are looking for something specifically designed with eyesight in mind, you may want to try: [Hydra Syntax Theme](https://marketplace.visualstudio.com/items?itemName=juanmnl.vscode-theme-hydra) or [Untitled Theme](https://marketplace.visualstudio.com/items?itemName=juanmnl.vscode-theme-untitled)
 
+**CYBERPUNK MODE IS MADE FOR LONG-TERM USAGE**
+
 ### **80's Neon-Styles + Bonus Editions**
 
 ![](https://raw.githubusercontent.com/juanmnl/vs-1984/master/screenshots/poster.jpg)
