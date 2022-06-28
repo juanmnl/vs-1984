@@ -19,6 +19,7 @@ _For the screenshots, I'm using (except CYBERPUNK):_
 _From the community:_
 
 - [1984 iTerm 2 Color Schemes](https://github.com/covertbert/iterm2-1984) thanks to [@covertbert](https://github.com/covertbert)
+- [1984 GitKraken theme](https://github.com/JonBunator/gitkraken-custom-themes) thanks to [@JonBunator](https://github.com/JonBunator)
 
 _For Cyberpunk Mode, I'm using:_
 
