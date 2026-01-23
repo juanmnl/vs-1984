@@ -61,7 +61,7 @@ _For Cyberpunk Mode, I'm using:_
 **Enjoy!**
 
 And don't forget to say hi!  
-[@\_juanmnl](https://twitter.com/_juanmnl)
+[@\_juanmnl](https://x.com/_juanmnl)
 
 ---
 

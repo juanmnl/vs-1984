@@ -83,7 +83,11 @@
     "gitDecoration.modifiedResourceForeground": "#fcd395",
     "gitDecoration.deletedResourceForeground": "#e74946",
     "gitDecoration.untrackedResourceForeground": "#4cb605",
-    "gitDecoration.ignoredResourceForeground": "#D5D8DA59"
+    "gitDecoration.ignoredResourceForeground": "#D5D8DA59",
+    "editor.findMatchBackground": "#fcd39566",
+    "editor.findMatchHighlightBackground": "#e7494644",
+    "editor.findMatchBorder": "#fcd395",
+    "editor.findMatchHighlightBorder": "#e7494666"
   },
   "tokenColors": [
     {
@@ -482,7 +486,234 @@
       "scope": "source.cpp keyword.operator",
       "settings": {
         "foreground": "#e74946"
-        // "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "TypeScript/JavaScript type keywords",
+      "scope": [
+        "storage.type.interface.ts",
+        "storage.type.interface.tsx",
+        "storage.type.type.ts",
+        "storage.type.type.tsx",
+        "storage.type.enum.ts",
+        "storage.type.enum.tsx",
+        "storage.type.namespace.ts",
+        "storage.type.namespace.tsx",
+        "storage.type.class.ts",
+        "storage.type.class.tsx"
+      ],
+      "settings": {
+        "foreground": "#e74946"
+      }
+    },
+    {
+      "name": "TypeScript interface/type names",
+      "scope": [
+        "entity.name.type.interface.ts",
+        "entity.name.type.interface.tsx",
+        "entity.name.type.alias.ts",
+        "entity.name.type.alias.tsx",
+        "entity.name.type.enum.ts",
+        "entity.name.type.enum.tsx"
+      ],
+      "settings": {
+        "foreground": "#F2F2F2"
+      }
+    },
+    {
+      "name": "TypeScript type annotation",
+      "scope": [
+        "meta.type.annotation.ts",
+        "meta.type.annotation.tsx",
+        "meta.return.type.ts",
+        "meta.return.type.tsx"
+      ],
+      "settings": {
+        "foreground": "#bcc8e0"
+      }
+    },
+    {
+      "name": "TypeScript primitive types",
+      "scope": [
+        "support.type.primitive.ts",
+        "support.type.primitive.tsx",
+        "support.type.builtin.ts",
+        "support.type.builtin.tsx"
+      ],
+      "settings": {
+        "foreground": "#bcc8e0"
+      }
+    },
+    {
+      "name": "TypeScript type operators",
+      "scope": [
+        "keyword.operator.type.ts",
+        "keyword.operator.type.tsx",
+        "keyword.operator.type.annotation.ts",
+        "keyword.operator.type.annotation.tsx"
+      ],
+      "settings": {
+        "foreground": "#e74946"
+      }
+    },
+    {
+      "name": "Rust lifetime",
+      "scope": [
+        "entity.name.type.lifetime.rust",
+        "punctuation.definition.lifetime.rust",
+        "storage.modifier.lifetime.rust"
+      ],
+      "settings": {
+        "foreground": "#fcbe95",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Rust macro",
+      "scope": [
+        "entity.name.function.macro.rust",
+        "support.macro.rust"
+      ],
+      "settings": {
+        "foreground": "#bcc8e0"
+      }
+    },
+    {
+      "name": "Rust self keyword",
+      "scope": [
+        "variable.language.self.rust",
+        "variable.language.super.rust"
+      ],
+      "settings": {
+        "foreground": "#fcd395",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Rust types",
+      "scope": [
+        "entity.name.type.rust",
+        "entity.name.type.struct.rust",
+        "entity.name.type.enum.rust",
+        "entity.name.type.trait.rust",
+        "entity.name.type.option.rust",
+        "entity.name.type.result.rust"
+      ],
+      "settings": {
+        "foreground": "#F2F2F2"
+      }
+    },
+    {
+      "name": "Rust primitive types",
+      "scope": [
+        "support.type.primitive.rust",
+        "entity.name.type.primitive.rust"
+      ],
+      "settings": {
+        "foreground": "#e74946"
+      }
+    },
+    {
+      "name": "Rust attributes",
+      "scope": [
+        "meta.attribute.rust",
+        "punctuation.definition.attribute.rust"
+      ],
+      "settings": {
+        "foreground": "#fcbe95"
+      }
+    },
+    {
+      "name": "JSX component tags",
+      "scope": [
+        "support.class.component.js",
+        "support.class.component.jsx",
+        "support.class.component.tsx"
+      ],
+      "settings": {
+        "foreground": "#bcc8e0"
+      }
+    },
+    {
+      "name": "JSX text",
+      "scope": [
+        "meta.jsx.children",
+        "meta.jsx.children.tsx"
+      ],
+      "settings": {
+        "foreground": "#fcd395"
+      }
+    },
+    {
+      "name": "JSX expression braces",
+      "scope": [
+        "punctuation.section.embedded.begin.jsx",
+        "punctuation.section.embedded.end.jsx",
+        "punctuation.section.embedded.begin.tsx",
+        "punctuation.section.embedded.end.tsx"
+      ],
+      "settings": {
+        "foreground": "#e74946"
+      }
+    },
+    {
+      "name": "Decorators",
+      "scope": [
+        "meta.decorator",
+        "punctuation.decorator"
+      ],
+      "settings": {
+        "foreground": "#fcbe95",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Type parameters",
+      "scope": [
+        "meta.type.parameters",
+        "variable.other.type.ts",
+        "variable.other.type.tsx"
+      ],
+      "settings": {
+        "foreground": "#bcc8e0"
+      }
+    },
+    {
+      "name": "Go package name",
+      "scope": [
+        "entity.name.package.go",
+        "entity.name.import.go"
+      ],
+      "settings": {
+        "foreground": "#fcbe95"
+      }
+    },
+    {
+      "name": "JSON property names",
+      "scope": [
+        "support.type.property-name.json"
+      ],
+      "settings": {
+        "foreground": "#e74946"
+      }
+    },
+    {
+      "name": "YAML key",
+      "scope": [
+        "entity.name.tag.yaml"
+      ],
+      "settings": {
+        "foreground": "#e74946"
+      }
+    },
+    {
+      "name": "TOML keys and tables",
+      "scope": [
+        "support.type.property-name.toml",
+        "entity.name.table.toml"
+      ],
+      "settings": {
+        "foreground": "#e74946"
       }
     }
   ]
